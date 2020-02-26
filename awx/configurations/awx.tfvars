@@ -1,22 +1,22 @@
 # Below code is used to set backend only
-s3_bucket                       =	"acirrustech-iaac"
+s3_bucket                       =	"anara-ansible-bucket"
 s3_folder_region                =	"us-east-1"
 
 # Change to any region to work, in my case default region is us-east-1
-region1_vpc_id		    	=	"vpc-1471ad6e"
+region1_vpc_id		    	=	"vpc-d3f5ebb5"
 
-# Change to second region to work, in my case oregon
-region2_vpc_id		    	=	"vpc-67dd1f1f"
+# Change to second region to work, in my case ohio
+region2_vpc_id		    	=	"vpc-bd4fb3d6"
 
-# Change to second region to work, in my case oregon
-region3_vpc_id		    	=	"vpc-908caaf6"
+# Change to second region to work, in my case n.california
+region3_vpc_id		    	=	"vpc-9e766af9"
 
-zone_id			        =	"Z32OHGRMBVZ9LR" 
-domain			        =	"acirrustech.com"
-base_domain			=	"acirrustech.com"
+zone_id			        =	"Z32EBW4NF7YAQH" 
+domain			        =	"anarakd.com"
+base_domain			=	"anarakd.com"
 region1 			= 	"us-east-1"
-region2 			= 	"us-west-2"
-region3 			= 	"eu-west-1"
+region2 			= 	"us-east-2"
+region3 			= 	"us-west-1"
 
 
 
